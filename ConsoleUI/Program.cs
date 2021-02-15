@@ -18,9 +18,6 @@ namespace ConsoleUI
 
 
 
-
-
-
         }
 
         private static void CategoryTest()
